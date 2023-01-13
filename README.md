@@ -37,8 +37,10 @@ An example RESTful API built on top of Symfony 5.4
 
 ### Documents
 
+#### Domain Model
 ![Domain Model](https://github.com/javiya-rupal/internation/blob/master/docs/domain-model.jpg)
 
+#### ER Diagram
 ![ER Diagram](https://github.com/javiya-rupal/internation/blob/master/docs/ER-Diagram.jpg)
 
 ## TODO
